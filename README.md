@@ -10,4 +10,6 @@ You have to import a list of five letter words. You can find that csv file in th
 
 Eventually I want have a script where you can play wordle as often as you want by yourself (against the computer) but for now, you will need to have a second player or the daily game itself.
 
+The code looks like it has a long output, but that is just the list of words from the csv being uploaded. Do not be scared! The actual code is pretty simple and straightforward. 
+
 Enjoy winning every day you play!
